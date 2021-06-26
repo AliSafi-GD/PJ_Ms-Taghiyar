@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5d6ad19239c8f21408a2bbaa46e708ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: JameJam
+  fontNames:
+  - JameJam
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a3d6ae70543c4143883b7583fa011ba, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

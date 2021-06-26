@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 76e629c8565ecb5499c5ee8bc8492626
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: dana
+  fontNames:
+  - dana
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0482fbd718867d34b8e42d54f67ec1d4, type: 3}
+  - {fileID: 12800000, guid: 31484c2d6a411aa45b0b46d578e5025b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

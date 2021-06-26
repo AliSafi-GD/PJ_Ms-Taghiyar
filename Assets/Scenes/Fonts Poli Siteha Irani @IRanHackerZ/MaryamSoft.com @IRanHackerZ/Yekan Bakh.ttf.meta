@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e80fb6959d66346479159866c35e41b8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Yekan Bakh
+  fontNames:
+  - Yekan Bakh
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 95dc50a6e4469414aa9d2aa0d93cf70f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

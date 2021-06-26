@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 5327baa41711e2f439b31779377c8dfc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: B Yekan
+  fontNames:
+  - B Yekan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3b31b0597c622149ab75ba3db913754, type: 3}
+  - {fileID: 12800000, guid: 227531cef2a2bbe4983a3ed48e1a28a1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

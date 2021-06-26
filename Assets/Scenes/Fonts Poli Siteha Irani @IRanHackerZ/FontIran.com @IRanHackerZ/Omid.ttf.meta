@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f5b36131f6a83ed4bb96e908e043fa48
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Omid
+  fontNames:
+  - Omid
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bbea9104ad656274ab20ee09e0d2e672, type: 3}
+  - {fileID: 12800000, guid: f1d491160fa0ed24cb39fac9eb37b7ce, type: 3}
+  - {fileID: 12800000, guid: 5bac5f5a340fcbd498e23b7891b320c2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

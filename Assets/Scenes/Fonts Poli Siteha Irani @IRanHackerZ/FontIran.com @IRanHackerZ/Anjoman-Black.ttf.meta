@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 813d71a9c076db146a06aa4afee1fd36
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Anjoman
+  fontNames:
+  - Anjoman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3a0200d1e7ce46744842942eaff8760a, type: 3}
+  - {fileID: 12800000, guid: 0afb76d465edd5142b8e2ce347f0ea09, type: 3}
+  - {fileID: 12800000, guid: 37ad6aced40ec174ba31342172160c31, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

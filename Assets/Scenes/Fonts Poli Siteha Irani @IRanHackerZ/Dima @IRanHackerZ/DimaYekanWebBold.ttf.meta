@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 78c9090d98c129b499543b23664ef6ee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dima Yekan Web
+  fontNames:
+  - Dima Yekan Web
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b7640d806f2ec7489ddce3a0d86b2e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

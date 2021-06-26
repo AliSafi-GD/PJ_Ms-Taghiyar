@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 4be65530e9c55044a9bb775f0ad55505
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FP_Chamran
+  fontNames:
+  - FP_Chamran
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31a8ef75d7b667a4f93145b838eb2629, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

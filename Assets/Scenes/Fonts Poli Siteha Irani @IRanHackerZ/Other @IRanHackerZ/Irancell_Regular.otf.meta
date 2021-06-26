@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c6a01c252c865a649a7d78800da0068e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Irancell
+  fontNames:
+  - Irancell
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 041da0d0663c19b4698f053a01e82651, type: 3}
+  - {fileID: 12800000, guid: c4695147feee8e24c81a5bfd87401a33, type: 3}
+  - {fileID: 12800000, guid: 45e60b082e30bcc4e8eee63dfd4bccd8, type: 3}
+  - {fileID: 12800000, guid: 7aa6e85dab9b6fc42bd305663bf83271, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
